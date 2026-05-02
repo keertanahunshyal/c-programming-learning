@@ -1,67 +1,76 @@
-# 💻 C Programming Journey
+# 💻 C Programming Learning Journey
 
-I am learning C programming step by step and sharing my daily progress here 🚀
+This repository documents my step-by-step progress in learning the C programming language.
+Each day focuses on building fundamental concepts along with practical implementation.
 
 ---
 
 ## 📅 Day 1 – Introduction to C
 
-### 📖 What I Learned:
+### 📖 Topics Covered:
 
-* Basics of C programming
-* Structure of a C program
-* printf() usage
-
-### 💻 Program:
-
-Hello World Program
-
-### 🚀 My Thoughts:
-
-Started my C programming journey today. Excited to learn daily!
-
----
-
-## 📅 Day 2 – Variables & Data Types
-
-### 📖 What I Learned:
-
-* Variables in C
-* Data types: int, float, char
-* How to declare and use variables
-* Printing variables using printf()
+* Basic structure of a C program
+* Role of `#include <stdio.h>`
+* `main()` function
+* Output using `printf()`
 
 ### 💻 Program:
 
-Used variables to store age, height, and grade
+Implementation of a simple "Hello, World!" program.
 
-### 🚀 My Thoughts:
+### 📝 Summary:
 
-Learning how to store and display data makes programs more powerful and interesting.
+Gained an understanding of how a basic C program is structured and executed.
 
 ---
 
-## 📅 Day 3 – User Input (`scanf`)
+## 📅 Day 2 – Variables and Data Types
 
-### 📖 What I Learned:
+### 📖 Topics Covered:
 
-* Taking input from user
-* Using `scanf()` function
+* Declaration and initialization of variables
+* Data types: `int`, `float`, `char`
+* Displaying variable values using `printf()`
+
+### 💻 Program:
+
+Program demonstrating the use of variables to store and display different types of data.
+
+### 📝 Summary:
+
+Learned how to store and manipulate data using variables, making programs more flexible.
+
+---
+
+## 📅 Day 3 – User Input using `scanf`
+
+### 📖 Topics Covered:
+
+* Accepting input from users
+* Usage of `scanf()` function
 * Format specifiers for input
-* Importance of `&` (address operator)
+* Use of address operator (`&`)
 
 ### 💻 Program:
 
-Took age and height as input from user and displayed it
+Program that takes user input (age and height) and displays the entered values.
 
-### 🚀 My Thoughts:
+### 📝 Summary:
 
-Now my programs can interact with users, which makes coding more practical and fun.
+Understood how to create interactive programs by taking input from the user.
 
 ---
 
-## 🎯 Goal
+## 🎯 Objective
 
-Stay consistent and improve my coding skills every day 💻🔥
+To build a strong foundation in C programming through consistent daily practice and implementation.
 
+---
+
+## 🚀 Progress Strategy
+
+* Daily coding practice
+* Concept-based learning
+* Hands-on program implementation
+* Continuous improvement through consistency
 
