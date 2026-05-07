@@ -74,3 +74,16 @@ To build a strong foundation in C programming through consistent daily practice 
 * Hands-on program implementation
 * Continuous improvement through consistency
 
+
+## 📅 Day 6 – Loops (`for` Loop)
+
+### 📖 Topics Covered:
+- Introduction to loops  
+- Syntax of `for` loop  
+- Repeating statements efficiently  
+
+### 💻 Program:
+Program to print numbers from 1 to 10 using a `for` loop.
+
+### 📝 Summary:
+Learned how loops help execute repetitive tasks efficiently with less code.
