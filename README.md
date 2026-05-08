@@ -87,3 +87,17 @@ Program to print numbers from 1 to 10 using a `for` loop.
 
 ### 📝 Summary:
 Learned how loops help execute repetitive tasks efficiently with less code.
+
+
+## 📅 Day 7 – `while` Loop and `do-while` Loop
+
+### 📖 Topics Covered:
+- `while` loop  
+- `do-while` loop  
+- Difference between both loops  
+
+### 💻 Program:
+Program demonstrating the use of `while` and `do-while` loops.
+
+### 📝 Summary:
+Learned how loops execute based on conditions and understood the difference between pre-check and post-check execution.
