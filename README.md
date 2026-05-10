@@ -82,13 +82,6 @@ To build a strong foundation in C programming through consistent daily practice 
 - Syntax of `for` loop  
 - Repeating statements efficiently  
 
-### 💻 Program:
-Program to print numbers from 1 to 10 using a `for` loop.
-
-### 📝 Summary:
-Learned how loops help execute repetitive tasks efficiently with less code.
-
-
 ## 📅 Day 7 – `while` Loop and `do-while` Loop
 
 ### 📖 Topics Covered:
@@ -96,8 +89,17 @@ Learned how loops help execute repetitive tasks efficiently with less code.
 - `do-while` loop  
 - Difference between both loops  
 
+
+## 📅 Day 8 – Arrays in C
+
+### 📖 Topics Covered:
+- Introduction to arrays  
+- Declaring and initializing arrays  
+- Accessing array elements  
+- Using loops with arrays  
+
 ### 💻 Program:
-Program demonstrating the use of `while` and `do-while` loops.
+Program to store and display array elements using a `for` loop.
 
 ### 📝 Summary:
-Learned how loops execute based on conditions and understood the difference between pre-check and post-check execution.
+Learned how arrays store multiple values efficiently and how loops simplify array traversal.
