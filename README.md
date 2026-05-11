@@ -1,105 +1,187 @@
-# 💻 C Programming Learning Journey
+# C Programming Learning Journey
 
-This repository documents my step-by-step progress in learning the C programming language.
-Each day focuses on building fundamental concepts along with practical implementation.
+This repository contains my daily progress while learning the C programming language through practical programs and hands-on implementation.
 
 ---
 
-## 📅 Day 1 – Introduction to C
+## Day 1 – Introduction to C
 
-### 📖 Topics Covered:
+### Topics Covered:
 
-* Basic structure of a C program
-* Role of `#include <stdio.h>`
+* Structure of a C program
+* `#include <stdio.h>`
 * `main()` function
 * Output using `printf()`
 
-### 💻 Program:
+### Program:
 
-Implementation of a simple "Hello, World!" program.
+Hello World Program
 
-### 📝 Summary:
+### Summary:
 
-Gained an understanding of how a basic C program is structured and executed.
+Learned the basic structure and execution flow of a C program.
 
 ---
 
-## 📅 Day 2 – Variables and Data Types
+## Day 2 – Variables and Data Types
 
-### 📖 Topics Covered:
+### Topics Covered:
 
-* Declaration and initialization of variables
+* Variables in C
 * Data types: `int`, `float`, `char`
-* Displaying variable values using `printf()`
+* Using `printf()` with variables
 
-### 💻 Program:
+### Program:
 
-Program demonstrating the use of variables to store and display different types of data.
+Program to store and display variable values.
 
-### 📝 Summary:
+### Summary:
 
-Learned how to store and manipulate data using variables, making programs more flexible.
-
----
-
-## 📅 Day 3 – User Input using `scanf`
-
-### 📖 Topics Covered:
-
-* Accepting input from users
-* Usage of `scanf()` function
-* Format specifiers for input
-* Use of address operator (`&`)
-
-### 💻 Program:
-
-Program that takes user input (age and height) and displays the entered values.
-
-### 📝 Summary:
-
-Understood how to create interactive programs by taking input from the user.
+Understood how data is stored and displayed using variables.
 
 ---
 
-## 🎯 Objective
+## Day 3 – User Input using `scanf`
 
-To build a strong foundation in C programming through consistent daily practice and implementation.
+### Topics Covered:
+
+* Taking input from users
+* `scanf()` function
+* Format specifiers
+* Address operator (`&`)
+
+### Program:
+
+Program to accept and display user input.
+
+### Summary:
+
+Learned how to create interactive programs using user input.
 
 ---
 
-## 🚀 Progress Strategy
+## Day 4 – Conditional Statements (`if-else`)
 
-* Daily coding practice
-* Concept-based learning
-* Hands-on program implementation
-* Continuous improvement through consistency
+### Topics Covered:
 
+* `if`, `else if`, and `else`
+* Comparison operators
+* Decision-making in programs
 
-## 📅 Day 6 – Loops (`for` Loop)
+### Program:
 
-### 📖 Topics Covered:
-- Introduction to loops  
-- Syntax of `for` loop  
-- Repeating statements efficiently  
+Program to check whether a number is positive, negative, or zero.
 
-## 📅 Day 7 – `while` Loop and `do-while` Loop
+### Summary:
 
-### 📖 Topics Covered:
-- `while` loop  
-- `do-while` loop  
-- Difference between both loops  
+Learned how programs make decisions using conditions.
 
+---
 
-## 📅 Day 8 – Arrays in C
+## Day 5 – Switch Case
 
-### 📖 Topics Covered:
-- Introduction to arrays  
-- Declaring and initializing arrays  
-- Accessing array elements  
-- Using loops with arrays  
+### Topics Covered:
 
-### 💻 Program:
-Program to store and display array elements using a `for` loop.
+* `switch` statement
+* `case` and `break`
+* `default` case
 
-### 📝 Summary:
-Learned how arrays store multiple values efficiently and how loops simplify array traversal.
+### Program:
+
+Simple calculator using switch case.
+
+### Summary:
+
+Understood how switch case simplifies multiple conditions.
+
+---
+
+## Day 6 – Loops (`for` Loop)
+
+### Topics Covered:
+
+* Introduction to loops
+* Syntax of `for` loop
+* Repeating statements efficiently
+
+### Program:
+
+Program to print numbers from 1 to 10 using a `for` loop.
+
+### Summary:
+
+Learned how loops reduce code repetition and automate tasks.
+
+---
+
+## Day 7 – `while` Loop and `do-while` Loop
+
+### Topics Covered:
+
+* `while` loop
+* `do-while` loop
+* Difference between both loops
+
+### Program:
+
+Program demonstrating `while` and `do-while` loops.
+
+### Summary:
+
+Understood condition-based looping and loop execution flow.
+
+---
+
+## Day 8 – Arrays in C
+
+### Topics Covered:
+
+* Introduction to arrays
+* Declaring and initializing arrays
+* Accessing array elements
+* Using loops with arrays
+
+### Program:
+
+Program to store and display array elements.
+
+### Summary:
+
+Learned how arrays store multiple values efficiently.
+
+---
+
+## Day 9 – Functions in C
+
+### Topics Covered:
+
+* Function declaration and definition
+* Function calling
+* Return values
+* Modular programming
+
+### Program:
+
+Program to add two numbers using a function.
+
+### Summary:
+
+Learned how functions improve code reusability and program structure.
+
+---
+
+## Objective
+
+* Build a strong foundation in C programming
+* Improve problem-solving skills
+* Practice coding consistently
+* Learn through hands-on implementation
+
+---
+
+## Tools Used
+
+* C Programming Language
+* GCC Compiler
+* Visual Studio Code
+* Git & GitHub
