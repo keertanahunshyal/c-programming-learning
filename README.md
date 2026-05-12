@@ -185,3 +185,17 @@ Learned how functions improve code reusability and program structure.
 * GCC Compiler
 * Visual Studio Code
 * Git & GitHub
+
+
+## Day 10 – Recursion in C
+
+### Topics Covered:
+- Introduction to recursion
+- Recursive function calls
+- Base condition in recursion
+
+### Program:
+Program to calculate factorial using recursion.
+
+### Summary:
+Learned how functions can call themselves to solve repetitive problems.
