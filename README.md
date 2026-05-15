@@ -199,3 +199,16 @@ Program to calculate factorial using recursion.
 
 ### Summary:
 Learned how functions can call themselves to solve repetitive problems.
+
+## Day 11 – Pointers in C
+
+### Topics Covered:
+- Introduction to pointers
+- Address operator (`&`)
+- Dereferencing operator (`*`)
+
+### Program:
+Program demonstrating pointer declaration and usage.
+
+### Summary:
+Learned how pointers store memory addresses and access variable values indirectly.
